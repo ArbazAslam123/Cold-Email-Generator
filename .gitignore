@@ -1,0 +1,27 @@
+# Environment variables
+.env
+App/.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+
+# ChromaDB
+App/vectorstore/
+vectorstore/
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+main.ipynb
